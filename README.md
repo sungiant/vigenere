@@ -4,7 +4,7 @@
 
 For three centuries the Vigenère cipher resisted all attempts to break it; here's how it's done.
 
-![](docs/vigenere420x470)
+![](docs/vigenere420x470.png)
 
 ### The Caesar cipher
 
